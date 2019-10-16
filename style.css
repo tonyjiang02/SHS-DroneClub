@@ -1,0 +1,14 @@
+.jumbotron {
+    background-image: url("drone_background.jpg");
+    background-size: cover;
+    background-position:center;
+}
+.row {
+    padding: 2%;
+}
+.info-title {
+    text-align:center;
+}
+body {
+    overflow-x: hidden;
+}
